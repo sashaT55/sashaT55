@@ -14,4 +14,8 @@
 ![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 
-Follow me 
+### Follow me
+
+[![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/sasha_tur/)
+[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/sasha_tur)
+[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/mwlite/in/aliaksandr-tur-151301129)
