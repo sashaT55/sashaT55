@@ -20,7 +20,7 @@
 - [Test-Suites and Test-Cases](https://github.com/sashaT55/test-cases)
 - [Bug-Reports](https://github.com/sashaT55/bug-reports)
 - [SQL Queries](https://github.com/sashaT55/SQL_.git)
-- [Postman Collections](https://github.com/sashaT55/postman)
+- [Postman Collections](https://github.com/sashaT55/postman_collections.git)
 
 
 ### Follow me
