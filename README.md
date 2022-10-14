@@ -19,7 +19,7 @@
 - [Checklists](https://github.com/sashaT55/checklists.git)
 - [Test-Suites and Test-Cases](https://github.com/sashaT55/test-cases)
 - [Bug-Reports](https://github.com/sashaT55/bug-reports)
-- [SQL Queries](https://github.com/sashaT55/SQL_)
+- [SQL Queries](https://github.com/sashaT55/SQL_.git)
 - [Postman Collections](https://github.com/sashaT55/postman)
 
 
